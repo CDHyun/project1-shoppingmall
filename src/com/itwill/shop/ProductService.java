@@ -14,5 +14,8 @@ public class ProductService {
 	public void selectByPK() {
 
 	}
-
+	
+	public void insert() {
+		
+	}
 }
